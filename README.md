@@ -5,6 +5,9 @@
 This is an ATM interface simulator built in Python.
 
 
+## Password: 0123
+
+
 
 ## Installation
 
